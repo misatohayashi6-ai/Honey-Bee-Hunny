@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Honeybee3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Honey Bee Hunny2"
+	}
+}
